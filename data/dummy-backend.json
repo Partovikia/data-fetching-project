@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "title": "Apple iPhone 15",
+      "description": "This is Apple iPhone 15"
+    },
+    {
+      "id": "p2",
+      "title": "Samsung Galaxy S23",
+      "description": "This is Samsung Galaxy S23"
+    },
+    { "id": "p3", "title": "Xiaomi 12", "description": "This is Xiaomi 12" },
+    {
+      "id": "p4",
+      "title": "Nothingphone 2",
+      "description": "This is Nothingphone 2"
+    }
+  ]
+}
